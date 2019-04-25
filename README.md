@@ -1,7 +1,7 @@
 # salesforce_chatter_map_API
 this API is used to integrate saeslforce data and chatter into a map application
 
-#Instructions:
+# Instructions:
 1. npm install
 2. rename config.example.js to config.js
     a. specify the client id  of your salesforce connected app
