@@ -1,5 +1,5 @@
 # salesforce_chatter_map_API
-this API is used to integrate saeslforce data and chatter into a map application
+this API is used to integrate saeslforce data and chatter into the map application punkmap/salesforce_chatter_map
 
 # Instructions:
 1. npm install
