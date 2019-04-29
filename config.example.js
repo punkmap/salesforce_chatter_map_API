@@ -1,3 +1,5 @@
+//Update the properties of the object below and rename this file config.js
+
 let config = {}
 
 config.salesforce = {}
